@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mrNareshKumar/Layout-Builder/static/css/main.cd5e4945.chunk.css",
+    "main.js": "/mrNareshKumar/Layout-Builder/static/js/main.03faffe8.chunk.js",
+    "main.js.map": "/mrNareshKumar/Layout-Builder/static/js/main.03faffe8.chunk.js.map",
+    "runtime-main.js": "/mrNareshKumar/Layout-Builder/static/js/runtime-main.339ff9af.js",
+    "runtime-main.js.map": "/mrNareshKumar/Layout-Builder/static/js/runtime-main.339ff9af.js.map",
+    "static/js/2.68cdf1c8.chunk.js": "/mrNareshKumar/Layout-Builder/static/js/2.68cdf1c8.chunk.js",
+    "static/js/2.68cdf1c8.chunk.js.map": "/mrNareshKumar/Layout-Builder/static/js/2.68cdf1c8.chunk.js.map",
+    "index.html": "/mrNareshKumar/Layout-Builder/index.html",
+    "static/css/main.cd5e4945.chunk.css.map": "/mrNareshKumar/Layout-Builder/static/css/main.cd5e4945.chunk.css.map",
+    "static/js/2.68cdf1c8.chunk.js.LICENSE.txt": "/mrNareshKumar/Layout-Builder/static/js/2.68cdf1c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.339ff9af.js",
+    "static/js/2.68cdf1c8.chunk.js",
+    "static/css/main.cd5e4945.chunk.css",
+    "static/js/main.03faffe8.chunk.js"
+  ]
+}
